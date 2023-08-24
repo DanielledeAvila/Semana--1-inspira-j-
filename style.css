@@ -1,0 +1,56 @@
+
+
+body{
+    background: rgb(28,15,242);
+background: radial-gradient(circle, rgba(28,15,242,1) 0%, rgba(114,114,179,1) 44%, rgba(0,212,255,1) 100%);
+color: white;
+}
+
+p{
+    font-size: larger;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    text-decoration:
+}
+.tituloconteudorelacionado{
+    text-align: left;
+}
+
+.imagem{
+        margin-left: 350px;
+       border-radius: 50px;
+       }
+
+
+#educacaodequalidade {  
+align-items: center;
+}
+
+#listadeobjetivos{
+    border-radius: 20px;
+    padding: 20px;
+    background-color:rgb(85, 97, 97);      
+}
+
+.atividadesemsp{
+    font-size: large;
+}
+
+.conteudorelacionado1{
+    padding: 50px;
+}
+#tituloconteudorelacionado{
+    text-align: left;
+}
+
+#footer{
+    padding:20px;
+    text-align:left
+    
+}
